@@ -221,8 +221,8 @@
       </g>
       <g class="com.sun.star.drawing.LineShape">
        <g id="id23">
-        <rect class="BoundingBox" stroke="none" fill="none" x="5299" y="17699" width="3" height="1003"/>
-        <path fill="none" stroke="rgb(0,0,0)" d="M 5300,17700 L 5300,18700"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="5199" y="17799" width="3" height="1003"/>
+        <path fill="none" stroke="rgb(0,0,0)" d="M 5200,17800 L 5200,18800"/>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
@@ -233,14 +233,14 @@
       </g>
       <g class="com.sun.star.drawing.LineShape">
        <g id="id25">
-        <rect class="BoundingBox" stroke="none" fill="none" x="6699" y="17699" width="3" height="1003"/>
-        <path fill="none" stroke="rgb(255,64,0)" d="M 6700,17700 L 6700,18700"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="6799" y="17799" width="3" height="1003"/>
+        <path fill="none" stroke="rgb(255,64,0)" d="M 6800,17800 L 6800,18800"/>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
        <g id="id26">
-        <rect class="BoundingBox" stroke="none" fill="none" x="6238" y="19052" width="963" height="3149"/>
-        <text class="TextShape" transform="rotate(-90 6939 21950)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="6939" y="21950"><tspan fill="rgb(0,0,0)" stroke="none"> </tspan></tspan><tspan class="TextPosition" x="6939" y="21772"><tspan fill="rgb(0,0,0)" stroke="none">3.3V Ref</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="6438" y="19052" width="963" height="3149"/>
+        <text class="TextShape" transform="rotate(-90 7139 21950)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="635px" font-weight="400"><tspan class="TextPosition" x="7139" y="21950"><tspan fill="rgb(0,0,0)" stroke="none"> </tspan></tspan><tspan class="TextPosition" x="7139" y="21772"><tspan fill="rgb(0,0,0)" stroke="none">3.3V Ref</tspan></tspan></tspan></text>
        </g>
       </g>
       <g class="com.sun.star.drawing.TextShape">
