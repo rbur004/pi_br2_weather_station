@@ -8,6 +8,10 @@ Looking at the internal workings of the components
 * The anemometer just has a magnet, and a reed switch that activates every turn.
 * The wind vane looks to be a 360 degree 50K variable resister, though it's not in good condition
 * The rain gauge is another magnet and reed switch, with a tipping bucket. The reed is either on or off (unlike the other WS-2300 rain gauge I have, where the reed is on momentarily, as the tipping bucket passes the mid point)
-* The barometer sensor has failed, but the temperature and humidity sensors still work. I will use a BMP180 pressure and temperature sensor
+* The barometer sensor has failed, but the temperature and humidity sensors still work, but are 433MHz wireless. I will use a BMP180.
 
+## Requirements
+```
+pip3 install RPi.bme280
+pip install rpi.gpio
 ```
